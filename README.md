@@ -1,3 +1,5 @@
+![Capa do Projeto](Image/Capa_Readme.png)
+
 # SecureFileEncryptionTool
 
 ## Descrição
